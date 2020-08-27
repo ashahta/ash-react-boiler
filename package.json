@@ -1,0 +1,23 @@
+{
+  "name": "react-boiler",
+  "version": "1.0.0",
+  "description": "This is a React boilerplate to use with my projects",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashahta/react-boiler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashahta/react-boiler/issues"
+  },
+  "homepage": "https://github.com/ashahta/react-boiler#readme"
+}
