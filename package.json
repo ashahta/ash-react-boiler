@@ -56,11 +56,10 @@
     "webpack": "^4.44.1",
     "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.11.0",
-    "webpack-merge": "^5.1.2"
-  },
-  "dependencies": {
+    "webpack-merge": "^5.1.2",
     "cross-env": "^7.0.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
-  }
+  },
+  "dependencies": {}
 }
